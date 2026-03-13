@@ -1,1 +1,1 @@
-# AI-ML-intenship
+# Data Science Projects
